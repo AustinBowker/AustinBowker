@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<ul>
+  <li><a href="#Home">Home</a></li>
+  <li><a href="#Blogs">Blogs</a></li>
+  <li><a href="#Coaching">Coaching</a></li>
+  <li><a href="#AboutMe">About Me</a></li>
+</ul>
+
+<p>My name is Austin Bowker I was current enrolled at Allen High School. I am enrolled in the Esports class and I enjoy gaming greatly.</p>
+
+<p>This is my Html Techknowldegy esports class website. Where you can find anything to my Blogs to my Coaching </p>
+<img src="https://t3.ftcdn.net/jpg/05/55/57/62/360_F_555576290_dcxxy35LdAUb8OqGGxsDzHDcqGpun1KT.jpg" alt="Setup" width="500" height="600">
+
+</body>
+</html>
+
+
