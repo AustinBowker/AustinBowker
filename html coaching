@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<body>
+<link rel="stylesheet" href="mystyle.css">
+<ul>
+  <li><a href="#Home">Home</a></li>
+  <li><a href="#Blogs">Blogs</a></li>
+  <li><a href="#Coaching">Coaching</a></li>
+  <li><a href="#AboutMe">About Me</a></li>
+</ul>
+
+<p>Overwatch 2 is a 5v5 PVP fps game where each team selects their agents and fights to complete an objective. Objectives change depending on the game-mode and maps being played.
+
+This is a introduction for starter players encouraging them to learn the game and improve their play style. I am teaching starter tips of how to increase your game-play and work with your team.</p>
+
+<p>Overwatch 2's ESRB’s Rating is Teen. For teens and older only, for the content of fighting with the other team and weapons.</p>
+
+<p>For starters its good to find out what character/s that fit your play style.</p> 
+
+<p>Depending on your characters role depends how you should play.
+Tank: As tank your goal is to take the damage for your team and keep your team alive.
+DPS: As A DPS your goal is to deal damage to the enemy team while trying to stay behind and alive.
+Support: As a Support your main purpose is to heal your tank and to boost your teams damage depending on your character.</p>
+<img src="https://shorturl.at/qwxQS" alt="Setup" width="300" height="200">
+<p>The main strategy is working as a team and playing together without over-pushing. Overall you need to play your role. Like as a tank, you will be leading the push and giving your team cover as you try to get kills. As a DPS (Damage Character) your goal is to stay behind the tank and stay moving while doing damage to the other team. For example, focus on the support and then go for the tank instead of targeting the tank fist as without their support the tank stands little chance against you. For support, you want to stay at a safer distance while still being close enough to heal your team and keep your main focus (your tank) alive. Just practice playing as a  team and pick off enemy characters who are off by themselves as they are easy pickings. 
+</p>
+<video width="400" controls>
+      <source src="" type="video/mp4">
+    </video>
+<h2>Tank</h2>
+<p>This clip shows how to play and position yourself as a tank in your team to take the damage for your team.
+</p>
+<video width="400" controls>
+      <source src="" type="video/mp4">
+    </video>
+<h2>DPS Clip</h2>
+<p>This clip will show your good placement as a DPS character to help your team the best and not to over push.</p>
+<video width="400" controls>
+      <source src="" type="video/mp4">
+    </video>
+<h2>Support Clip</h2>
+<p>This clip will show you how to play support and stay behind your team as you are the life of the team and must keep your tank alive and other members</p>
+<video width="400" controls>
+      <source src="" type="video/mp4">
+    </video>
+<h2>Team Clip</h2>
+<p>This clip shows you how your team should look and be set up in everyone's positions and how to move as one team instead of getting picked off 1 by 1.</p>
+
+
+</body>
+</html>
